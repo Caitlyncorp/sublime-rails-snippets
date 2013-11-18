@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[#encoding: ${1:UTF-8}]]></content>
+    <tabTrigger>utf8</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>set UTF8 encoding</description>
+</snippet>

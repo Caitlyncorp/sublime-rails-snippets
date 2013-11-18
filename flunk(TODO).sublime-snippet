@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flunk('TODO')]]></content>
+    <tabTrigger>ftodo</tabTrigger>
+    <scope>source.ruby.rails</scope>
+    <description>flunk('TODO')</description>
+</snippet>
