@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[save_and_open_page]]></content>
+    <tabTrigger>saop</tabTrigger>
+    <scope>source.ruby.rails</scope>
+    <description>save_and_open_page shortcut</description>
+</snippet>
