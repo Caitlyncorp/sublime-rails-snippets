@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[flunk('TODO')]]></content>
+    <content><![CDATA[skip('TODO')]]></content>
     <tabTrigger>stodo</tabTrigger>
     <scope>source.ruby.rails</scope>
     <description>skip('TODO')</description>
